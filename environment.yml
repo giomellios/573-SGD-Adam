@@ -1,6 +1,6 @@
 # This file may be used to create an environment using:
 # conda env create --name <env> --file <this file>
-name: cs587
+name: cs573
 channels:
   - pytorch
 dependencies:
